@@ -42,5 +42,5 @@
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=abinaugustine&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 <a href="https://instagram.com/abin.augustine.7781">
-    <img alt="Instagram" src="https://img.shields.io/static/v1?label&message=abin.augustine.7781&color=E4405F&style=for-the-badge&logo=instagram" height="22px" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-abin.augustine.7781&color=E4405F&style=for-the-badge&logo=instagram" height="22px" />
 </a>
