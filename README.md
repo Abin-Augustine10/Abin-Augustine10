@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ajmal here !</h1>
- <!--- <img src="blink.svg" width="400" height="60" alt="css-in-readme"> --->
+<h1 align="center">Hi there 👋, I'm Abin here !</h1>
 <div>
   <h4> About Me: </h4>
   <ul>
@@ -25,35 +24,14 @@
 
 </div>
 
-<!--- GITHUB STATICS 
-<div>
-<details>
- <summary><h4>⚙️ GitHub Stats:<h4></summary>
-<p align="center">
-<a href="https://github.com/Abin-Augustine10">
-  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abin-Augustine10&&hide=cmake,Jupyter%20Notebook&langs_count=7&line_height=35&theme=dracula"/>
-  <img height="240em"src="https://streak-stats.demolab.com/?user=Abin-Augustine10&theme=dracula"/>
-</a>
-</p>
-</details>
-</div>
---->
+<!--- GITHUB STATICS --->
 
 ![Abin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Abin-Augustine10&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abin-Augustine10&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Augustine10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://komarev.com/ghpvc/?username=Abin-Augustine10)
 
-<!--- HOW TO REACH ME 
-<h4>How to reach me:</h4>
-<a href="https://linkedin.com/in/abinaugustine">
-    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=abinaugustine&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
-</a>
-<a href="https://instagram.com/abin.augustine.7781">
-    <img alt="Instagram" src="https://img.shields.io/static/v1?label&message=abin.augustine.7781&color=E4405F&style=for-the-badge&logo=instagram" height="22px" />
-</a>
-
---->
+<!--- HOW TO REACH ME --->
 <h4>How to reach me:</h4>
 <p align="left">
 <a href="https://github.com/Abin-Augustine10" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" alt="ajmalu" height="30" width="40" /></a>
