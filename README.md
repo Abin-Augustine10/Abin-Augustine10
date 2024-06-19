@@ -22,19 +22,19 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/java-282a36?style=for-the-badge&logo=java">
 </div>
 
-<!--- GITHUB STATICS 
+<!--- GITHUB STATICS --->
 <div>
 <details>
  <summary><h4>⚙️ GitHub Stats:<h4></summary>
 <p align="center">
-<a href="https://github.com/vskvj3">
-  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vskvj3&&hide=cmake,Jupyter%20Notebook&langs_count=7&line_height=35&theme=dracula"/>
-  <img height="240em"src="https://streak-stats.demolab.com/?user=vskvj3&theme=dracula"/>
+<a href="https://github.com/Abin-Augustine10">
+  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abin-Augustine10&&hide=cmake,Jupyter%20Notebook&langs_count=7&line_height=35&theme=dracula"/>
+  <img height="240em"src="https://streak-stats.demolab.com/?user=Abin-Augustine10&theme=dracula"/>
 </a>
 </p>
 </details>
 </div>
---->
+
 
 <!--- HOW TO REACH ME --->
 <h4>How to reach me:</h4>
