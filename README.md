@@ -3,7 +3,7 @@
 <div>
   <h4> About Me: </h4>
   <ul>
-    <li>BTech Compter Science Graduate</li>
+    <li>BTech Compter Science Engineering Graduate</li>
     <li>Ask me about Sports</li>
     <li>I'm working on something fun</li>
   </ul>
