@@ -22,7 +22,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/java-282a36?style=for-the-badge&logo=java">
 </div>
 
-<!--- GITHUB STATICS --->
+<!--- GITHUB STATICS 
 <div>
 <details>
  <summary><h4>⚙️ GitHub Stats:<h4></summary>
@@ -34,7 +34,12 @@
 </p>
 </details>
 </div>
+--->
 
+![Abin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Abin-Augustine10&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abin-Augustine10&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Augustine10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://komarev.com/ghpvc/?username=Abin-Augustine10)
 
 <!--- HOW TO REACH ME --->
 <h4>How to reach me:</h4>
