@@ -22,7 +22,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/java-282a36?style=for-the-badge&logo=java">
 </div>
 
-<!--- GITHUB STATICS --->
+<!--- GITHUB STATICS 
 <div>
 <details>
  <summary><h4>⚙️ GitHub Stats:<h4></summary>
@@ -34,7 +34,7 @@
 </p>
 </details>
 </div>
-
+--->
 
 <!--- HOW TO REACH ME --->
 <h4>How to reach me:</h4>
