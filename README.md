@@ -37,5 +37,5 @@
 <a href="https://github.com/Abin-Augustine10" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" alt="ajmalu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abinaugustine/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ajmalu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abin.augustine.7781?igsh=NHAzeWJyMW4ybGZp" target="blank"><img align="center" src="https://github.com/ajmal276/Portfolio/blob/main/Portfolio/instagram.png?raw=true" alt="ajmalu" height="30" width="30" /></a>
-<a href="abinaugustine1010@gmail.com" target="blank"><img align="center" src="https://github.com/ajmal276/Portfolio/blob/main/Portfolio/gmail.png?raw=true" alt="ajmalu" height="30" width="30" /></a>
+<a href="mailto:abinaugustine1010@gmail.com" target="blank"><img align="center" src="https://github.com/ajmal276/Portfolio/blob/main/Portfolio/gmail.png?raw=true" alt="ajmalu" height="30" width="30" /></a>
 </p>
