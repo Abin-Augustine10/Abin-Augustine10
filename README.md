@@ -9,7 +9,7 @@
 </div>
 
 <!--- LANGUAGES AND TOOLS --->
-<h4> Languages and Tools </h4>
+<h4> Languages and Tools</h4>
 <div>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/c-282a36?style=for-the-badge&logo=c">
