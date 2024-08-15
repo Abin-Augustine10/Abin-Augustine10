@@ -21,7 +21,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/flutter-282a36?style=for-the-badge&logo=flutter">
  <img alt="Static Badge" src="https://img.shields.io/badge/git-282a36?style=for-the-badge&logo=git">
 <img alt="Static Badge" src="https://img.shields.io/badge/dart-282a36?style=for-the-badge&logo=dart">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/nintex-282a36?style=for-the-badge&logo=nintex">
 </div>
 
 <!--- GITHUB STATICS --->
