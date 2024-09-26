@@ -2,6 +2,7 @@
 <div>
   <h4> About Me: </h4>
   <ul>
+    <li>Software Developer</li>
     <li>BTech Compter Science Engineering Graduate</li>
     <li>Ask me about Coding and Sports</li>
     <li>I'm working on something fun</li>
