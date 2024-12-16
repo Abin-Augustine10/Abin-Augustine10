@@ -4,7 +4,7 @@
   <ul>
     <li>Software Developer</li>
     <li>BTech Compter Science Engineering Graduate</li>
-    <li>Ask me about Coding and Sports</li>
+    <li>Ask me about Coding and Sports🏏🏸🏓♟️</li>
     <li>I'm working on something fun</li>
   </ul>
 </div>
@@ -24,6 +24,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/dart-282a36?style=for-the-badge&logo=dart">
 <img alt="Static Badge" src="https://img.shields.io/badge/nintex-282a36?style=for-the-badge&logo=nintex">
 <img alt="Static Badge" src="https://img.shields.io/badge/K2-282a36?style=for-the-badge&logo=K2">
+<img alt="Static Badge" src="https://img.shields.io/badge/React Native-282a36?style=for-the-badge&logo=React Native">
 </div>
 
 <!--- GITHUB STATICS --->
