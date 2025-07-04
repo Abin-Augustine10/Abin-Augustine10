@@ -13,7 +13,9 @@
 <h4> Languages and Tools </h4>
 <div>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/c-282a36?style=for-the-badge&logo=c">
+<img alt="Static Badge" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/python-282a36?style=for-the-badge&logo=python">
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript-282a36?style=for-the-badge&logo=javascript">
 <img alt="Static Badge" src="https://img.shields.io/badge/react-282a36?style=for-the-badge&logo=react">
@@ -24,7 +26,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/dart-282a36?style=for-the-badge&logo=dart">
 <img alt="Static Badge" src="https://img.shields.io/badge/nintex-282a36?style=for-the-badge&logo=nintex">
 <img alt="Static Badge" src="https://img.shields.io/badge/K2-282a36?style=for-the-badge&logo=K2">
-<img alt="Static Badge" src="https://img.shields.io/badge/React Native-282a36?style=for-the-badge&logo=React Native">
+
 </div>
 
 <!--- GITHUB STATICS --->
