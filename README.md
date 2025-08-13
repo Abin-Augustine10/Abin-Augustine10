@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abin here !!</h1>
 <div>
-  <h4> About Me: </h4>
+  <h4> About Me:  </h4>
   <ul>
     <li>Software Developer</li>
     <li>BTech Compter Science Engineering Graduate</li>
