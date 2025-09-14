@@ -16,7 +16,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=Power BI&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Power@BI-5C2D91?style=for-the-badge&logo=Power@20BI&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/python-282a36?style=for-the-badge&logo=python">
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript-282a36?style=for-the-badge&logo=javascript">
 <img alt="Static Badge" src="https://img.shields.io/badge/react-282a36?style=for-the-badge&logo=react">
