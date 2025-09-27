@@ -29,7 +29,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/K2-282a36?style=for-the-badge&logo=K2">
 </div>
 
-
 <!--- GITHUB STATICS --->
 
 ![Abin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Abin-Augustine10&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
